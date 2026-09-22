@@ -1,6 +1,6 @@
-# exp_5_study_characteriztion_of_h_plane
+# exp_5_characteriztion_of_h_plane
 
-# Experiment 5 — Study and Characterization of H-Plane Tee
+# Experiment 5 —  Characterization of H-Plane Tee
 
 ---
 
