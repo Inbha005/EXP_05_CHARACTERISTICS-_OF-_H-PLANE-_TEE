@@ -13,8 +13,7 @@ Klystron power supply, klystron mount with tube, isolator, variable attenuator, 
 
 ## Experimental Setup
 
-<img width="744" height="484" alt="image" src="https://github.com/user-attachments/assets/ea65ce6c-aced-4c5f-9f66-a6fcb5daff1b" />
-
+<img width="933" height="296" alt="Screenshot 2026-09-22 184359" src="https://github.com/user-attachments/assets/d910d18a-cc66-44f7-8c5e-8a887383cacf" />
 
 
 ---
